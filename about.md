@@ -4,4 +4,4 @@ layout: home
 
 # About SPIN
 
-*This page is currently under construction.*
+You can find some statistics about and links to past SPIN events [here](https://spinroot.com/spin/Workshops/).

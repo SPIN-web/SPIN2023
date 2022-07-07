@@ -4,9 +4,7 @@ layout: home
 
 # Call for Papers
 
-*This page is currently under construction.*
-
-The 29th edition of the SPIN symposium aims at bringing together researchers and practitioners interested in automated tool-based techniques for the analysis of software as well as models of software, for the The 29th edition of the SPIN symposium aims at bringing together researchers and practitioners interested in automated tool-based techniques for the analysis of software as well as models of software, for the purpose of verification and validation. The symposium specifically focuses on concurrent software but does not exclude the analysis of sequential software. Submissions are solicited on theoretical results, novel algorithms (classical and quantum), tool development for modern hardware (parallel and distributed), and empirical evaluation.
+The 29th edition of the SPIN symposium aims to bring together researchers and practitioners interested in automated tool-based techniques to analyze and model software for the purpose of verification and validation. The symposium specifically focuses on concurrent software but does not exclude the analysis of sequential software. Submissions are solicited on theoretical results, novel algorithms (classical and quantum), tool development for modern hardware (parallel and distributed), and empirical evaluation.
 
 
 ## Topics
@@ -34,6 +32,8 @@ The 29th edition of the SPIN symposium aims at bringing together researchers and
   <li>Formal methods of education and training</li>
   <li>Insightful surveys or historical accounts on topics of relevance to the symposium</li>
   <li>Relevant tools and algorithms for modern hardware, e.g.: parallel, GPU, TPU, cloud, and quantum</li>
+  <li>Formal analysis of quantum programs</li>
+  <li>Formal techniques to model and analyze societal and legal systems</li>
  </ul>
 </details>
 

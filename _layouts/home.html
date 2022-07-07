@@ -18,6 +18,9 @@
       <header>
         <h1 class="header"><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 <!--         <p class="header">{{ site.description | default: site.github.project_tagline }}</p> -->
+        <p class="header">&emsp; August 26-27</p>
+        <p>Submission: TBA<br/>
+        Notification: TBA</p>
 
 <!-- navigation bar taken from https://gist.github.com/pdarragh/c7ca120604c1a1d8b8de -->
 {% for entry in site.data.navigation %}
@@ -29,6 +32,7 @@
         {% assign current_page = fullurl %}
     {% endif %}
 {% endfor %}
+
 <nav>
     <ul>
     {% for entry in site.data.navigation %}
