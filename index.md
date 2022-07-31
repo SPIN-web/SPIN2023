@@ -11,7 +11,7 @@ layout: home
 <p style="margin-bottom:5mm;"></p>
 
 <p style="text-align: center;font-size:18px">
-August 26-27, co-located with <a href="https://etaps.org/2023/">ETAPS 2023</a>
+April 26-27, co-located with <a href="https://etaps.org/2023/">ETAPS 2023</a>
 </p>
 
 <p style="margin-bottom:1cm;"></p>
