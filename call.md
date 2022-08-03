@@ -32,8 +32,9 @@ The 29th edition of the SPIN symposium aims to bring together researchers and pr
   <li>Formal methods of education and training</li>
   <li>Insightful surveys or historical accounts on topics of relevance to the symposium</li>
   <li>Relevant tools and algorithms for modern hardware, e.g.: parallel, GPU, TPU, cloud, and quantum</li>
-  <li>Formal analysis of quantum programs</li>
+  <li>Formal analysis of quantum systems</li>
   <li>Formal techniques to model and analyze societal and legal systems</li>
+  <li>Formal analysis of learned systems</li>
  </ul>
 </details>
 
