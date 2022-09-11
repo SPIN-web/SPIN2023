@@ -43,4 +43,18 @@ We invite submissions presenting theoretical results, novel algorithms, tool dev
 
 ## Submission Guidelines
 
-TBA
+With the exception of survey and history papers, submissions should contain original work.
+Submitted work must not have been submitted or accepted for publication elsewhere.
+Submissions should adhere to the [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+We invite both **long** (up to 16 pages) and **short** (up to 6 pages) papers (not including references and appendices).
+SPIN 2023 uses a **single-blind** policy, so submissions need not be anonymized.
+
+We ask authors to submit an **abstract** prior to the full paper.
+Papers should be submitted via the [EasyChair submission website](https://easychair.org/conferences/?conf=spin20230).
+The **dates** (understood as [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth)) for submitting the abstract and the full paper are given on the side bar (click the entry to see a conversion to local time).
+
+All papers conforming to the submission guidelines will be peer-reviewed by members of the program committee.
+Submissions will be evaluated on the basis of originality, importance of contribution, soundness, quality of presentation, and appropriate comparison to related work.
+
+At least one author of each accepted paper must **attend** the symposium and present the paper.
+Please note that SPIN 2023 adheres to the policy of ETAPS 2023 with regards to physical participation, and this policy is subject to change based on the situation.
