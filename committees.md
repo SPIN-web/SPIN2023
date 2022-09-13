@@ -45,10 +45,10 @@ layout: home
 
 ## Steering Committee
 
-- [Dragan Bosnacki](https://www.tue.nl/en/research/researchers/dragan-bosnacki/) (chair)
-- [Susanne Graf](http://www-verimag.imag.fr/~graf/)
-- [Gerard Holzmann](https://spinroot.com/gerard/)
-- [Stefan Leue](https://www.sen.uni-konstanz.de/members/prof-dr-stefan-leue/)
-- [Jaco van de Pol](https://cs.au.dk/~jaco/)
-- [Neha Rungta](https://www.amazon.science/author/neha-rungta)
-- [Willem Visser](http://www.cs.sun.ac.za/~wvisser/)
+- [Dragan Bosnacki](https://www.tue.nl/en/research/researchers/dragan-bosnacki/) (Eindhoven University of Technology, Netherlands) (chair)
+- [Susanne Graf](http://www-verimag.imag.fr/~graf/) (Verimag, France)
+- [Gerard Holzmann](https://spinroot.com/gerard/) (Nimble Research, USA)
+- [Stefan Leue](https://www.sen.uni-konstanz.de/members/prof-dr-stefan-leue/) (University of Konstanz, Germany)
+- [Jaco van de Pol](https://cs.au.dk/~jaco/) (Aarhus University, Denmark)
+- [Neha Rungta](https://www.amazon.science/author/neha-rungta) (AWS, USA)
+- [Willem Visser](http://www.cs.sun.ac.za/~wvisser/) (Stellenbosch University, South Africa)
