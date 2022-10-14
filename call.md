@@ -6,12 +6,13 @@ layout: home
 
 The 29th edition of the SPIN symposium aims to bring together researchers and practitioners interested in automated tool-based techniques to analyze and model software for the purpose of verification and validation.
 We invite submissions presenting theoretical results, novel algorithms, tool development, and empirical evaluation.
+The proceedings of SPIN 2023 will be published in Springer's *Lecture Notes in Computer Science* series.
 
 
 ## Topics
 
 <details>
- <summary>Topics of interest include, but are not limited to (click to see):</summary>
+ <summary>Topics of interest include, but are not limited to (click the triangle on the left to see):</summary>
  <ul>
   <li>Formal verification techniques for automated analysis of software</li>
   <li>Formal analysis for modeling languages, such as UML/state charts</li>
@@ -43,14 +44,17 @@ We invite submissions presenting theoretical results, novel algorithms, tool dev
 
 ## Submission Guidelines
 
+* [Submission website](https://easychair.org/conferences/?conf=spin20230)
+* [LNCS template and formatting instructions](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
+
 With the exception of survey and history papers, submissions should contain original work.
-Submitted work must not have been submitted or accepted for publication elsewhere.
+Submitted work must not have been submitted concurrently or accepted for publication elsewhere.
 Submissions should adhere to the [LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
 We invite both **long** (up to 16 pages) and **short** (up to 6 pages) papers (not including references and appendices).
 SPIN 2023 uses a **single-blind** policy, so submissions need not be anonymized.
 
 We ask authors to submit an **abstract** prior to the full paper.
-Papers should be submitted via the [EasyChair submission website](https://easychair.org/conferences/?conf=spin20230).
+Abstracts and full papers are submitted via the [EasyChair submission website](https://easychair.org/conferences/?conf=spin20230).
 The **dates** (understood as [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth)) for submitting the abstract and the full paper are given on the side bar (click the entry to see a conversion to local time).
 
 All papers conforming to the submission guidelines will be peer-reviewed by members of the program committee.
