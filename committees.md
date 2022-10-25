@@ -20,7 +20,7 @@ layout: home
 - [Sergiy Bogomolov](https://www.sergiybogomolov.com/) (Newcastle University, UK)
 - [Dragan Bosnacki](https://www.tue.nl/en/research/researchers/dragan-bosnacki/) (Eindhoven University of Technology, Netherlands)
 - [Krishnendu Chatterjee](https://pub.ist.ac.at/~kchatterjee/) (IST Austria, Austria)
-- [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html) (CISPA & Saarland University, Germany)
+- [Bernd Finkbeiner](https://www.react.uni-saarland.de/people/finkbeiner.html) (CISPA Helmholtz Center for Information Security, Germany)
 - [Miriam García Soto](https://scholar.google.com/citations?user=uwPrtDkAAAAJ) (Complutense University of Madrid, Spain)
 - [Mirco Giacobbe](https://mircogiacobbe.github.io/) (University of Birmingham, UK)
 - [Arnd Hartmanns](https://arnd.hartmanns.name) (University of Twente, Netherlands)
