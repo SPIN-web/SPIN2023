@@ -21,3 +21,7 @@ ETAPS 2023 is scheduled to take place in Paris, organized by Sorbonne Universit√
 </span>
 
 <img src="assets/images/paris.jpeg" alt="Paris.jpg"/>
+
+## News
+
+* Dec 12: The submission site is open ([link](https://easychair.org/conferences/?conf=spin20230))
