@@ -15,7 +15,7 @@ layout: home
 |-----------|--------------|-------------|
 |14:00-15:00| [**Keynote** (Joost-Pieter Katoen)](speakers#joost-pieter-katoen-rwth-aachen--university-of-twente) | [**Keynote** (Caterina Urban)](speakers#caterina-urban-inria) |
 |-----------|--------------|-------------|
-|15:00-15:30| Hugues Evrard and Alastair Donaldson:<br>*Model Checking Futexes* | Théo Matricon and Nathanaël Fijalkow:<br>*WikiCoder: Learning to Write Knowledge-Powered Code* |
+|15:00-15:30| Hugues Evrard and Alastair Donaldson:<br>*Model Checking Futexes* | Théo Matricon, Nathanaël Fijalkow and Gaëtan Margueritte:<br>*WikiCoder: Learning to Write Knowledge-Powered Code* |
 |15:30-16:00| Chukri Soueidi and Yliès Falcone:<br>*Sound Concurrent Traces for Online Monitoring* | Benedikt Maderbacher, Stefan Schupp, Ezio Bartocci, Roderick Bloem, Dejan Nickovic and Bettina Könighofer:<br>*Provable Correct and Adaptive Simplex Architecture for Bounded-Liveness Properties* |
 |-----------|--------------|-------------|
 |16:00-16:30| *Coffee break* | *Coffee break* |
