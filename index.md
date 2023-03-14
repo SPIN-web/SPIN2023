@@ -24,7 +24,7 @@ ETAPS 2023 is scheduled to take place in Paris, organized by Sorbonne Universit√
 
 ## News
 
-* Mar 7: The program has been added.
+* Mar 7: The program and information on the venue and registration have been added (see the left-hand menu).
 * Feb 28: Titles and abstracts of the keynotes have been added.
 * Feb 24: The notifications have been sent. The program will be available in the near future.
 * Jan 13: The submission and notification deadline have been extended (see the new dates in the left-hand menu).
