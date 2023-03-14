@@ -37,6 +37,7 @@ layout: home
 - [Corina Pasareanu](https://engineering.cmu.edu/directory/bios/pasareanu-corina.html) (NASA Ames & CMU, USA)
 - [Doron Peled](https://u.cs.biu.ac.il/~peledd/) (Bar Ilan University, Israel)
 - [Andreas Podelski](https://swt.informatik.uni-freiburg.de/staff/podelski) (University of Freiburg, Germany)
+- [Christian Schilling](https://www.christianschilling.net/) (Aalborg University, Denmark)
 - [Natasha Sharygina](https://www.inf.usi.ch/faculty/sharygina/) (University of Lugano, Switzerland)
 - [Jiri Srba](https://people.cs.aau.dk/~srba/) (Aalborg University, Denmark)
 - [Michael Tautschnig](https://www.tautschnig.net/) (AWS & Queen Mary University of London, UK)
