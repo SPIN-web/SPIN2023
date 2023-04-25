@@ -5,7 +5,7 @@ layout: home
 # SPIN 2023
 
 <span style="font-size:21px">
-29th International Symposium on Model Checking of Software
+29th International Symposium on Model Checking Software
 </span>
 
 <p style="margin-bottom:5mm;"></p>
