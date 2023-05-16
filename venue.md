@@ -4,7 +4,7 @@ layout: home
 
 # Venue
 
-SPIN 2023 is co-located with with [ETAPS 2023](https://etaps.org/2023/) in Paris, France.
+SPIN 2023 is co-located with [ETAPS 2023](https://etaps.org/2023/) in Paris, France.
 For information on travel and accommodation we refer to the dedicated [ETAPS page](https://etaps.org/2023/attending/).
 
 # Registration
