@@ -209,7 +209,7 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minitest (5.18.1)
+    minitest (5.19.0)
     nokogiri (1.15.3-x86_64-linux)
       racc (~> 1.4)
     octokit (4.25.1)
@@ -258,7 +258,7 @@ DEPENDENCIES
   tzinfo (~> 2)
   tzinfo-data
   wdm (~> 0.1.0)
-  webrick
+  webrick (~> 1.8)
 
 BUNDLED WITH
-   2.2.31
+   2.4.17
