@@ -12,7 +12,7 @@ The proceedings of SPIN 2023 will be published in Springer's *Lecture Notes in C
 ## Topics
 
 <details>
- <summary>Topics of interest include, but are not limited to (click the triangle on the left to see):</summary>
+ <summary>Topics of interest include, but are not limited to (click this line to see):</summary>
  <ul>
   <li>Formal verification techniques for automated analysis of software</li>
   <li>Formal analysis for modeling languages, such as UML/state charts</li>
